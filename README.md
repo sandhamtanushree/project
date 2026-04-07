@@ -97,10 +97,5 @@ python main.py
 
 ---
 
-## Developer
-**dev = tubakhxn**
 
 ---
-
-## Footer
-Built by tubakhxn
