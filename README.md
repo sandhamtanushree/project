@@ -32,18 +32,6 @@ This project is a complete solution for marking attendance using facial recognit
 - `requirements.txt` - Python dependencies
 - `README.md` - Project documentation
 
----
-
-## How to Fork This Project
-1. Click the **Fork** button at the top right of this repository on GitHub.
-2. Clone your forked repository to your local machine:
-	```
-	git clone https://github.com/your-username/face-based-attendance-system.git
-	```
-3. Navigate to the project directory:
-	```
-	cd face-based-attendance-system
-	```
 
 ---
 
